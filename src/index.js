@@ -9,8 +9,8 @@ const styles = {
 
 const App = () => (
   <div style={styles}>
-    <Hello name="CodeSandbox" />
-    <h2>Start editing to see some magic happen {"\u2728"}</h2>
+    <Hello name="World" />
+    <h2>Just start testing new ReactJS possibilities!! {"\u2728"}</h2>
   </div>
 );
 
